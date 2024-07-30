@@ -18,15 +18,23 @@
     - title: PhD in Theoretical Physics
       institution: Astronomical Institute of the Czech Academy of Sciences, Faculty of Mathematics and Physics of Charles University in Prague
       year: 2021 - ongoing
-      description: Gravitational waves from large-mass-ratio black hole binaries
+      description: 
+      - "Thesis: Gravitational waves from large-mass-ratio black hole binaries"
+      - "Supervisor: Georgios Loukes-Gerakopoulos"
     - title: Master's Degree in Theoretical Physics
       institution: University of Turin, Italy
       year: 2019 - 2021
-      description: 110/110 cum laude
+      description: 
+      - "Thesis: An Improved Effective-One-Body Model for Coalescing Black Hole Binaries"
+      - "Advisor: Alessandro Nagar"
+      - "Grade: 110/110 cum laude"
     - title: Bachelor's Degree in Physics
       institution: University of Ferrara, Italy
       year: 2016 - 2019
-      description: 110/110 cum laude
+      description: 
+      - "Thesis: Symmetries and Constrained Dynamics"
+      - "Advisor: Denis Comelli"
+      - "Grade: 110/110 cum laude"
 
 - title: Awards
   type: time_table
@@ -41,13 +49,13 @@
       'Modelling eccentric black hole binaries with precessing spins in the effective-one-body framework',
       running from April 2024 until the end of my PhD studies.
 
-- title: Other activities
+- title: Scientific activities
   type: list
   contents:
     - I am contributing to the open source code of <a href="https://teobresums.bitbucket.io">TEOBResumS</a>, 
       an effective-one-body waveform model for compact binary coalescences.
-    - I am part of the Waveform Working Group in the LISA Consortium.
-    - I am part of Division 8 (Waveforms) of the Observational Science Board in the Einstein Telescope Collaboration.
+    - I am part of the Waveform Working Group in the <a href="https://www.lisamission.org">LISA Consortium</a>.
+    - I am part of Division 8 (Waveforms) of the Observational Science Board in the <a href="https://www.et-gw.eu/index.php/the-et-collaboration">Einstein Telescope Collaboration</a>.
     - I am a reviewer for Physical Review D.
 
 - title: Certificates
