@@ -20,4 +20,4 @@ My research involves the **gravitational waves** (GWs) emitted by **black hole b
 
 My current work aims at extending the validity of the EOB model <a href="https://teobresums.bitbucket.io">TEOBResumS</a> to a larger mass ratio regime, in view of the needs of the next generation of GW detectors.
 
-On this website you can find the list of my publications and my cv. Click <a href="https://shorturl.at/bgNKM">here</a> to see my research metrics on iNSPIRE.
+On this website you can find the list of my publications and my cv. Click <a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20Angelica%20Albertini%20and%20not%20collaboration%20%2A&ui-citation-summary=true">here</a> to see my research metrics on iNSPIRE.
