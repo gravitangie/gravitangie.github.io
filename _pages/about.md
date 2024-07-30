@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in theoretical physics, working on gravitational waves. 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a PhD student in theoretical physics affiliated to the Astronomical Institute of the Czech Academy of Sciences and to the Faculty of Mathematics and Physics of Charles University in Prague. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research involves the **gravitational waves** (GWs) emitted by **black hole binaries**. In particular, I am dealing with waveform modelling within the <a href="https://inspirehep.net/literature/479939">**effective-one-body**</a> (EOB) approach. This approach provides a powerful semi-analytical framework that allows to evaluate reliable GW templates for compact binary coalescences. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current work aims at extending the validity of the EOB model <a href="https://teobresums.bitbucket.io">TEOBResumS</a> to a larger mass ratio regime, in view of the needs of the next generation of GW detectors.
+
+On this website you can find the list of my publications and my cv. Click <a href="https://shorturl.at/bgNKM">here</a> to see my research metrics on iNSPIRE.
