@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I am a PhD student in theoretical physics affiliated to the Astronomical Institute of the Czech Academy of Sciences and to the Faculty of Mathematics and Physics of Charles University in Prague. 
 
-My research involves the **gravitational waves** (GWs) emitted by **black hole binaries**. In particular, I am dealing with waveform modelling within the <a href="https://inspirehep.net/literature/479939">**effective-one-body**</a> (EOB) approach. This approach provides a powerful semi-analytical framework that allows to evaluate reliable GW templates for compact binary coalescences. 
+My research involves the **gravitational waves** (GWs) emitted by **black hole binaries**. In particular, I am dealing with waveform modelling within the <a href="https://inspirehep.net/literature/479939">effective-one-body</a> (EOB) approach. This approach provides a powerful semi-analytical framework that allows to evaluate reliable GW templates for compact binary coalescences. 
 
 My current work aims at extending the validity of the EOB model <a href="https://teobresums.bitbucket.io">TEOBResumS</a> to a larger mass ratio regime, in view of the needs of the next generation of GW detectors.
 
