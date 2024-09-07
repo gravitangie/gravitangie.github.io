@@ -68,6 +68,9 @@
 - title: Talks
   type: time_table
   contents: 
+    - title: ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ *
+      description: Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (* invited)
+      year: September 2024
     - title: ‘Tailoring the effective-one-body approach to large-mass-ratio inspirals’
       description: LISA Symposium, University College Dublin 
       year: July 2024 
