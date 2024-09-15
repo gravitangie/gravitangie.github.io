@@ -13,6 +13,8 @@ li::marker {
 }
 </style>
 
+## Conferences
+
 Invited talks are marked with an asterisk.
 
 <ul style="list-style-type:square;">
@@ -34,7 +36,7 @@ Invited talks are marked with an asterisk.
   Capra meeting 2022, University College Dublin (June 2022) </li>
 </ul>  
 
-### seminars 
+## Seminars 
 
 <ul style="list-style-type:square;">
   <li> <strong> ‘An effective-one-body gravitational waveform model for large-mass-ratio inspiralling black hole binaries’ </strong> <br>
