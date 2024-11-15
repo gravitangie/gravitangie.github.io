@@ -15,9 +15,11 @@ li::marker {
 
 ## Conferences
 
-Invited talks are marked with an asterisk.
+\* invited.
 
 <ul style="list-style-type:square;">
+  <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
+  3rd Einstein Telescope Annual Meeting, Warsaw (November 2024) </li>
   <li> * <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
   Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (September 2024) </li>
   <li> <strong> ‘Tailoring the effective-one-body approach to large-mass-ratio inspirals’ </strong> <br>
@@ -39,6 +41,8 @@ Invited talks are marked with an asterisk.
 ## Seminars 
 
 <ul style="list-style-type:square;">
+  <li> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br>
+  Self-force seminars, University of Southampton (October 2024) </li>
   <li> <strong> ‘An effective-one-body gravitational waveform model for large-mass-ratio inspiralling black hole binaries’ </strong> <br>
   Central European Institute for Cosmology and Fundamental Physics, Prague (May 2024) </li>
   <li> <strong> ‘Tailoring An effective-one-body waveform model to extreme-mass-ratio inspirals’ </strong> <br>

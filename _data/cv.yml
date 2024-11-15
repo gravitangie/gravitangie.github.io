@@ -36,18 +36,14 @@
       - "Advisor: Denis Comelli"
       - "Grade: 110/110 cum laude"
 
-- title: Awards
-  type: time_table
-  contents:
-    - year: October 2022
-      title: Premio Nazionale INFN 'Milla Baldo Ceolin' 2021 - Women in Theoretical Physics
-
-- title: Grants
+- title: Awards and grants
   type: list
   contents: 
     - I have been awarded a grant by the Grant Agency of Charles University for the project 
-      'Modelling eccentric black hole binaries with precessing spins in the effective-one-body framework',
+      ‘Modelling eccentric black hole binaries with precessing spins in the effective-one-body framework’,
       running from April 2024 until the end of my PhD studies.
+    - I have been awarded the 2021 National Award ‘Milla Baldo Ceolin’ by the Italian 
+      National Institute for Nuclear Physics for the best Master's theses by women in theoretical physics.
 
 - title: Scientific activities
   type: list
@@ -59,12 +55,16 @@
     - I am a reviewer for Physical Review D.
     - I was part of the local organizing committee for the event ‘GW@CZ - Workshop on gravitational wave science in the Czech Republic’.
 
-- title: Certificates
+- title: Languages
   type: time_table
   contents:
-    - year: April 2016
+    - year: English
       title: Cambridge Certificate in Advanced English
-      description: 200/210 (CEFR level C2)
+      description: 
+      - "April 2016"
+      - "Grade: 200/210 (CEFR level C2)"
+    - year: French
+      title: Basic level
 
 - title: Other interests
   type: list
