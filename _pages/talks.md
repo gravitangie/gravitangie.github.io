@@ -18,6 +18,8 @@ li::marker {
 \* invited.
 
 <ul style="list-style-type:square;">
+  <li> <strong> ‘An effective-one-body model for large-mass-ratio black hole binaries’ </strong> <br> 
+  Unlocking Gravity Through Computation, 5th EPS Conference on Gravitation, Prague (December 2024) </li>
   <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
   3rd Einstein Telescope Annual Meeting, Warsaw (November 2024) </li>
   <li> * <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
