@@ -43,6 +43,8 @@ li::marker {
 ## Seminars 
 
 <ul style="list-style-type:square;">
+  <li> <strong> ‘Spinning particle on Kerr: comparing effective-one-body and Mathisson-Papapetrou-Dixon’ </strong> <br>
+  Relativity Seminar of the Institute of Theoretical Physics, Charles University, Prague (March 2025) </li>
   <li> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br>
   Self-force seminars, University of Southampton (October 2024) </li>
   <li> <strong> ‘An effective-one-body gravitational waveform model for large-mass-ratio inspiralling black hole binaries’ </strong> <br>
