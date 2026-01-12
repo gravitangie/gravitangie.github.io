@@ -8,16 +8,23 @@
     - name: Place of Birth 
       value: Pesaro, Italy
     - name: E-mail
-      value: angelica.albertini97 [at] gmail.com, albertini [at] asu.cas.cz
+      value: angelica.albertini97 [at] gmail.com
     - name: ORCiD
       value: 0000-0002-9556-1323
+
+- title: Current position
+  type: time_table
+  contents: 
+    - title: Postdoctoral researcher
+      institution: Institute of Theoretical Physics, Faculty of Mathematics and Physics of Charles University, Prague, Czech Republic
+      year: 2026 - ongoing
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Theoretical Physics
-      institution: Astronomical Institute of the Czech Academy of Sciences, Faculty of Mathematics and Physics of Charles University in Prague
-      year: 2021 - ongoing
+      institution: Astronomical Institute of the Czech Academy of Sciences & Institute of Theoretical Physics, Faculty of Mathematics and Physics of Charles University, Prague, Czech Republic
+      year: 2021 - 2025
       description: 
       - "Thesis: Gravitational waves from large-mass-ratio black hole binaries"
       - "Supervisor: Georgios Loukes-Gerakopoulos"
@@ -48,16 +55,17 @@
 - title: Scientific activities
   type: list
   contents:
+    - I am part of the Waveform Working Group in the <a href="https://www.lisamission.org">LISA Consortium</a>. Within the Waveform Systematics project of such group, 
+      I am coordinating the subproject ‘Systematics for high-q MBHBs & IMRIs’ together with Eleanor Hamilton (UIB).
+    - I am part of Division 8 (Waveforms) of the Observational Science Board in the <a href="https://www.et-gw.eu/index.php/the-et-collaboration">Einstein Telescope Collaboration</a>.
     - I am contributing to the open source code of <a href="https://teobresums.bitbucket.io">TEOBResumS</a>, 
       an effective-one-body waveform model for compact binary coalescences.
-    - I am part of the Waveform Working Group in the <a href="https://www.lisamission.org">LISA Consortium</a>.
-    - I am part of Division 8 (Waveforms) of the Observational Science Board in the <a href="https://www.et-gw.eu/index.php/the-et-collaboration">Einstein Telescope Collaboration</a>.
     - I am a reviewer for Physical Review D.
 
 - title: Contributions in events
   type: list
   contents:
-    - I took part in the event <a href="https://www.asu.cas.cz/chat-s-astronomkou-EN">Chat s Astronomkou</a> 2025, 
+    - I took part in the event <a href="https://www.asu.cas.cz/articles/1916/463/chat-s-astronomkou">Chat s Astronomkou</a> 2025, 
       that aimed at connecting school students with female researchers working at the Astronomical Institute of the Czech Academy of Sciences. 
       I had several online chats with students, and visited the Gymnázium in Třeboň, giving an outreach lecture with the title ‘General relativity, black holes and gravitational waves’.
     - I was part of the local organizing committee for the event ‘<a href="https://utf.mff.cuni.cz/gwcz/">GW@CZ</a> - Workshop on gravitational wave science in the Czech Republic’, 
@@ -71,8 +79,6 @@
       description: 
       - "April 2016"
       - "Grade: 200/210 (CEFR level C2)"
-    - year: French
-      title: Basic level
 
 - title: Other interests
   type: list

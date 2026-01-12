@@ -18,6 +18,14 @@ li::marker {
 \* invited.
 
 <ul style="list-style-type:square;">
+  <li> * <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
+  Crossroads in Strong Gravity – Challenges & Future Directions, Catania (September 2025)</li>
+  <li> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
+  NEB21 - Recent Developments in Gravity, Corfu (September 2025)</li>
+  <li> <strong> ‘Insights into the plunge dynamics of coalescing black hole binaries’</strong> <br> 
+  Capra meeting 2025, University of Southampton (July 2025)</li>
+  <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
+  GR24/Amaldi16, Glasgow (July 2025)</li>
   <li> <strong> ‘An effective-one-body model for large-mass-ratio black hole binaries’ </strong> <br> 
   Unlocking Gravity Through Computation, 5th EPS Conference on Gravitation, Prague (December 2024) </li>
   <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
@@ -40,9 +48,22 @@ li::marker {
   Capra meeting 2022, University College Dublin (June 2022) </li>
 </ul>  
 
+## Panel discussions
+
+<ul style="list-style-type:square;">
+  <li> <strong> ‘Discussion: Synergies & hybrid models’ </strong> <br>
+  Capra meeting 2025, University of Southampton (July 2025) </li>
+  <li> <strong> ‘Discussion: IMRI waveforms’ </strong> <br>
+  Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (September 2024) </li>
+</ul>  
+
 ## Seminars 
 
 <ul style="list-style-type:square;">
+  <li> <strong> ‘Gravitational waves: Our perspective 10 years after GW150914’ </strong> <br>
+  Seminar of the Department of Astroparticle Physics, Institute of Physics of the Czech Academy of Sciences, Prague (October 2025) </li>
+  <li> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’ </strong> <br>
+  Seminar of the Astronomical Institute of the Czech Academy of Sciences, Ondřejov (October 2025) </li>
   <li> <strong> ‘Spinning particle on Kerr: comparing effective-one-body and Mathisson-Papapetrou-Dixon’ </strong> <br>
   Relativity Seminar of the Institute of Theoretical Physics, Charles University, Prague (March 2025) </li>
   <li> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br>
