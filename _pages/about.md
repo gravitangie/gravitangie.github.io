@@ -19,3 +19,6 @@ Hello! I am a postdoc at the <a href="https://utf.mff.cuni.cz/en/index.html">Ins
 My research focuses on **gravitational waves** (GWs) emitted by **black hole binaries**. Specifically, I specialize in waveform modelling within the <a href="https://inspirehep.net/literature/479939">effective-one-body</a> (EOB) approach, a powerful semi-analytical framework used to generate reliable GW templates for compact binary coalescences. My work aims at extending the validity of this framework into the large-mass-ratio regime.
 
 On this website you can find the list of my publications, the list of my talks and my cv. Click <a href="https://inspirehep.net/authors/1970558?ui-citation-summary=true">here</a> to see my research metrics on iNSPIRE.
+
+<br>
+<br>
