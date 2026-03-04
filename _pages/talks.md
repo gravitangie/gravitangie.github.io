@@ -16,10 +16,10 @@ nav_order: 3
 
 ## Conferences
 
-<span style="color: #CC268C; font-size: 1.5em;">&bull;</span> Invited
+<span style="color: #CC268C; font-size: 2em;">&bull;</span> Invited
 
 <ul> 
-  <li class="special"> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
+  <li class="invited"> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
   Crossroads in Strong Gravity – Challenges & Future Directions, Catania (September 2025)</li>
   <li> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
   NEB21 - Recent Developments in Gravity, Corfu (September 2025)</li>
@@ -31,7 +31,7 @@ nav_order: 3
   Unlocking Gravity Through Computation, 5th EPS Conference on Gravitation, Prague (December 2024) </li>
   <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
   3rd Einstein Telescope Annual Meeting, Warsaw (November 2024) </li>
-  <li class="special"> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
+  <li class="invited"> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
   Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (September 2024) </li>
   <li> <strong> ‘Tailoring the effective-one-body approach to large-mass-ratio inspirals’ </strong> <br>
   LISA Symposium, University College Dublin (July 2024) </li>
