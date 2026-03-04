@@ -8,17 +8,18 @@ nav_order: 3
 ---
 
 <style>
-li::marker {
-  color: #f2b305;
-}
+  /* Default style for all list items */
+  li::marker { color: #f2b305; font-size: 1.5em; }
+  /* Style for invited talks */
+  li.invited::marker { color: #CC268C; font-size: 1.5em; }
 </style>
 
 ## Conferences
 
-\* invited.
+<span style="color: #CC268C; font-size: 1.5em;">&bull;</span> Invited
 
-<ul style="list-style-type:square;">
-  <li> * <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
+<ul> 
+  <li class="special"> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
   Crossroads in Strong Gravity – Challenges & Future Directions, Catania (September 2025)</li>
   <li> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
   NEB21 - Recent Developments in Gravity, Corfu (September 2025)</li>
@@ -30,7 +31,7 @@ li::marker {
   Unlocking Gravity Through Computation, 5th EPS Conference on Gravitation, Prague (December 2024) </li>
   <li> <strong> ‘An effective-one-body waveform model for large-mass-ratio black hole binaries’ </strong> <br> 
   3rd Einstein Telescope Annual Meeting, Warsaw (November 2024) </li>
-  <li> * <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
+  <li class="special"> <strong> ‘Comparing effective-one-body and gravitational self-force results for large-mass-ratio inspirals’ </strong> <br> 
   Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (September 2024) </li>
   <li> <strong> ‘Tailoring the effective-one-body approach to large-mass-ratio inspirals’ </strong> <br>
   LISA Symposium, University College Dublin (July 2024) </li>
@@ -50,16 +51,18 @@ li::marker {
 
 ## Panel discussions
 
-<ul style="list-style-type:square;">
-  <li> <strong> ‘Discussion: Synergies & hybrid models’ </strong> <br>
+<ul>
+  <li> <strong> ‘What needs to be done for waveforms’ </strong> <br>
+  LISA Fundamental Physics and Waveforms Working Groups Meeting, SISSA, Trieste (February 2026) </li>
+  <li> <strong> ‘Synergies & hybrid models’ </strong> <br>
   Capra meeting 2025, University of Southampton (July 2025) </li>
-  <li> <strong> ‘Discussion: IMRI waveforms’ </strong> <br>
+  <li> <strong> ‘IMRI waveforms’ </strong> <br>
   Fundamental Physics Meets Waveforms With LISA, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam (September 2024) </li>
 </ul>  
 
 ## Seminars 
 
-<ul style="list-style-type:square;">
+<ul>
   <li> <strong> ‘Gravitational waves: Our perspective 10 years after GW150914’ </strong> <br>
   Seminar of the Department of Astroparticle Physics, Institute of Physics of the Czech Academy of Sciences, Prague (October 2025) </li>
   <li> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’ </strong> <br>
