@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 <style>
+  li { line-height: 1.4; margin-bottom: 10px; }
   /* Default style for all list items */
   li::marker { color: #f2b305; font-size: 1.5em; }
   /* Style for invited talks */
