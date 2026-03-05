@@ -8,16 +8,16 @@ nav_order: 3
 ---
 
 <style>
-  li { line-height: 1.4; margin-bottom: 10px; }
+  /* li { line-height: 1.2; } /* margin-bottom: 10px; */
   /* Default style for all list items */
-  li::marker { color: #f2b305; font-size: 1.5em; }
+  li::marker { color: #f2b305; } /* font-size: 1.2em; */
   /* Style for invited talks */
-  li.invited::marker { color: #CC268C; font-size: 1.5em; }
+  li.invited::marker { color: #CC268C; }
 </style>
 
 ## Conferences
 
-<span style="color: #CC268C; font-size: 2em;">&bull;</span> Invited
+<span style="color: #CC268C; font-size: 1.7em;">&bull;</span> Invited
 
 <ul> 
   <li class="invited"> <strong> ‘Exploiting the effective-one-body approach for large-mass-ratio black hole binaries’</strong> <br> 
