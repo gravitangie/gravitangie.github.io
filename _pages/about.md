@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a postdoc at the <a href="https://utf.mff.cuni.cz/en/index.html">Institute of Theoretical Physics</a> of the Faculty of Mathematics and Physics of Charles University in Prague. 
+Hello! I am a postdoctoral researcher at the <a href="https://utf.mff.cuni.cz/en/index.html">Institute of Theoretical Physics</a> of Charles University in Prague. 
 
-My research focuses on **gravitational waves** (GWs) emitted by **black hole binaries**. Specifically, I specialize in waveform modelling within the <a href="https://inspirehep.net/literature/479939">effective-one-body</a> (EOB) approach, a powerful semi-analytical framework used to generate reliable GW templates for compact binary coalescences. My work aims at extending the validity of this framework into the large-mass-ratio regime.
+My research focuses on **gravitational-wave (GW) modeling** for black hole binaries. I specialize in the <a href="https://inspirehep.net/literature/479939">effective-one-body</a> (EOB) approach, a powerful framework to develop semi-analytical templates for compact binary coalescences. My work aims at extending the validity of EOB waveforms into the large-mass-ratio regime.
 
-On this website you can find the list of my publications, the list of my talks and my cv. Click <a href="https://inspirehep.net/authors/1970558?ui-citation-summary=true">here</a> to see my research metrics on iNSPIRE.
+Explore this website for my publications, conference talks, and CV, or view my full research metrics on <a href="https://inspirehep.net/authors/1970558?ui-citation-summary=true">iNSPIRE</a>.
 
 <br>
 <br>

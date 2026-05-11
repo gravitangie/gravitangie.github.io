@@ -42,31 +42,38 @@
       - "Thesis: Symmetries and Constrained Dynamics"
       - "Advisor: Denis Comelli"
       - "Grade: 110/110 cum laude"
+    - title: Classical High School Diploma (Liceo Classico)
+      institution: Liceo Classico 'Terenzio Mamiani', Pesaro, Italy
+      year: 2011 - 2016
+      description: 
+      - "Grade: 100/100"
 
-- title: Awards and grants
+- title: Honors & Funding
   type: list
   contents: 
-    - I have been awarded a grant by the Grant Agency of Charles University for the project 
-      ‘Modelling eccentric black hole binaries with precessing spins in the effective-one-body framework’,
-      running from April 2024 until the end of my PhD studies (September 2025).
-    - I have been awarded the 2021 National Award ‘Milla Baldo Ceolin’ by the Italian 
-      National Institute for Nuclear Physics for the best Master's theses by women in theoretical physics.
+    - "Finalist, <a href='https://www.cenasiemens.cz/minule-rocniky/vitezove-2025/#disertacni-prace'>Werner Von Siemens Prize 2025</a>: top 10 PhD theses in the Czech Republic among 285 candidates nationwide."
+    - "Research Grant, Grant Agency of Charles University (2024–2025): Principal Investigator for 'Modelling eccentric black hole binaries with precessing spins in the effective-one-body framework'."
+    - "Milla Baldo Ceolin National Award (2021): Awarded by the Italian National Institute for Nuclear Physics (INFN) for one of the best Master's theses by women in theoretical physics."
 
-- title: Scientific contributions
+- title: Scientific Collaborations
   type: list
   contents:
-    - I am part of the Waveform Working Group in the <a href="https://www.lisamission.org">LISA Consortium</a>. 
-    - I am part of Division 8 (Waveforms) of the Observational Science Board in the <a href="https://www.et-gw.eu/index.php/the-et-collaboration">Einstein Telescope Collaboration</a>.
-    - I am a developer of <a href="https://teobresums.bitbucket.io">TEOBResumS</a>, 
-      an effective-one-body waveform model for compact binary coalescences.
-    - I am a reviewer for Physical Review D.
+    - "Member of the Waveform Working Group, <a href='https://www.lisamission.org'>LISA Consortium</a>."
+    - "Member of Division 8 (Waveforms), Observational Science Board, <a href='https://www.et-gw.eu/index.php/the-et-collaboration'>Einstein Telescope Collaboration</a>."
+    - "Developer for <a href='https://teobresums.bitbucket.io'>TEOBResumS</a>, an effective-one-body waveform model for compact binary coalescences."
+    - "Peer Reviewer for *Physical Review D*."
 
-- title: Contributions in events
+- title: Event Organization
   type: list
   contents:
-    - I took part in the event <a href="https://www.asu.cas.cz/chat-s-astronomkou-EN">Chat s Astronomkou</a> 2025, 
-      and I gave an outreach lecture at the Gymnázium in Třeboň with the title ‘General relativity, black holes and gravitational waves’.
-    - I was part of the local organizing committee for the event ‘<a href="https://utf.mff.cuni.cz/gwcz/">GW@CZ</a> - Workshop on gravitational wave science in the Czech Republic’ (Prague, December 2023).
+    - "<b>Co-organizer</b>, <a href='https://indico.mitp.uni-mainz.de/event/464/'>Lost in Translation: The languages of Gravitational Waves</a> (Online Workshop, 2025). Selected as part of the <a href='https://www.mitp.uni-mainz.de/mitp-youngstars/'>MITP Youngstars</a> initiative."
+    - "<b>Local Organizing Committee</b>, <a href='https://utf.mff.cuni.cz/gwcz/'>GW@CZ</a>: Workshop on gravitational wave science in the Czech Republic (Prague, 2023)."
+
+- title: Outreach & Public Engagement
+  type: list
+  contents:
+    - "<b>Contributor</b>, <a href='https://www.asu.cas.cz/chat-s-astronomkou-EN'>Chat s Astronomkou</a> (2025): Participated in online Q&A sessions."
+    - "<b>Outreach Speaker</b>, Gymnázium Třeboň: Represented the 'Chat s Astronomkou' initiative by delivering an in-person lecture titled 'General relativity, black holes and gravitational waves'."
 
 - title: Languages
   type: time_table
@@ -82,7 +89,7 @@
   contents: 
     - I practiced aikido from 2009 to 2016 in the dojo Renbukai in Pesaro. 
       In March 2022 I started practicing again in the dojo Aikido Praha Vinohrady. 
-      In June 2024 I passed the exam for the <a href="https://en.wikipedia.org/wiki/Kyū#List_of_kyū_ranks">1st kyū</a>.
+      In April 2026 I earned the rank of <b>Shodan (1st degree black belt)</b>.
     - I am an amateur singer and a music enthusiast. 
       You can find my playlists on <a href="https://open.spotify.com/user/31unne4vxpdgxwdbpevrqulsgw4m?si=3cmGhfsSQbWazEitYhvVDA">Spotify</a> 
       and <a href="https://music.apple.com/profile/thingswecantuntie">Apple Music</a>, 

@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Angelica
 middle_name: 
 last_name: Albertini
-email: angelica.albertini97@gmail.com
+email: angelica.albertini@matfyz.cuni.cz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in theoretical physics, working on gravitational waves.
 footer_text: >
